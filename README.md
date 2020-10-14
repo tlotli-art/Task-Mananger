@@ -1,4 +1,4 @@
-# Task-Mananger
+# Task-Manager
 
 Task management program for a small business
 
