@@ -1,0 +1,8 @@
+
+Total number of users is: 9
+percentage of the total number of tasks assigned to admin: 40.0
+percentage of the total number of tasks assigned to user1: 40.0
+percentage of the total number of tasks assigned to user2: 20.0
+percentage of the total number of tasks for ['admin', 'user1', 'user2'] completed is ['0.0', '0.0', '0.0'] respectively
+percentage of the total number of tasks for ['admin', 'user1', 'user2']has not completed is ['100.0', '100.0', '100.0'] respectively
+percentage of the total number of tasks for ['admin', 'user1', 'user2']has not completed and are overdue is ['100.0', '100.0', '100.0'] respectively
